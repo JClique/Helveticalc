@@ -1,4 +1,6 @@
-# calc
+#Helveticalc
+
+Helveticalc is a simple calculator application built with Vue JS.
 
 ## Project setup
 ```
