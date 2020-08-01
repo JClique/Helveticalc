@@ -1,4 +1,4 @@
-#Helveticalc
+<img src="https://github.com/JClique/Helveticalc/blob/master/src/assets/logo.png?raw=true">
 
 Helveticalc is a simple calculator application built with Vue JS.
 
